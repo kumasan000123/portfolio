@@ -1,1 +1,2 @@
-# portfolio
+weight.pyは体重管理アプリです。tkinterとmatplotlibとsqlite3を使用しています。
+”体重入力後グラフを見る”ボタンを押すと折れ線グラフが見れます。
